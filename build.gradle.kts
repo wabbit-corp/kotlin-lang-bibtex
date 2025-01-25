@@ -30,8 +30,8 @@ publishing {
 }
 
 dependencies {
-    implementation("com.github.wabbit-corp:kotlin-parsing-parsers:1.0.0")
-    implementation("com.github.wabbit-corp:kotlin-parsing-charset:1.0.1")
+    implementation("com.github.wabbit-corp:kotlin-parsing-parsers:2.0.0")
+    implementation("com.github.wabbit-corp:kotlin-parsing-charset:1.1.0")
     implementation("com.github.wabbit-corp:kotlin-parsing-charinput:1.1.0")
 
     testImplementation(kotlin("test"))
